@@ -1,0 +1,8 @@
+python>=3.9
+
+# Optional (used for lightweight NLP preprocessing)
+nltk>=3.8
+
+# Optional (used for LLM ambiguity resolution)
+openai>=1.0.0
+python-dotenv>=1.0.0
