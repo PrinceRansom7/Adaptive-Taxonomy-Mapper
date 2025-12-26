@@ -8,5 +8,5 @@ __pycache__/
 # OS files
 .DS_Store
 
-# Output files (optional)
+# Output files 
 outputs/
